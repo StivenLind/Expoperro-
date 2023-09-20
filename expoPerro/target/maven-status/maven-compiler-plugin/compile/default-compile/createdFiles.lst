@@ -1,0 +1,5 @@
+servlet\SvPerro.class
+com\umariana\expoperro\JakartaRestConfiguration.class
+com\umariana\expoperro\resources\JakartaEE8Resource.class
+com\umariana\expoperro\perro.class
+com\umariana\expoperro\exposicionPerro.class
